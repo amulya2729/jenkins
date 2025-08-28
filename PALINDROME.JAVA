@@ -1,4 +1,4 @@
-public class PALINDROME {
+public class Palindrome {
     public static void main(string[]args) {
         if(args.length==0) {
             System.out.println("please provide a word to check!");
